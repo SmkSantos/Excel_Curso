@@ -6,16 +6,12 @@
 
 
 
-##### Versão 1.0
+##### Versão 1.2
 
-- Criação de SubPasta "VBA"
+- Criação de Subpasta "VBA"
 - Primeiro Projeto Adicionado
 
-##### Versão 1.1
-
 - Alteração de nome de arquivo
-
-##### Versão 1.2
 
 - Criação de Documento de Organização
 
@@ -23,7 +19,15 @@
 
 #### Documentação de Processos
 
-##### Versão 1.0
+##### Versão 2.0
 
 - Versionamento de Processos
+
+
+
+#### Alteração de Arquivo
+
+##### Versão 1.0
+
+- Alteração do arquivo "Conceito VBA", de acordo com o avanço das aulas.
 

@@ -19,7 +19,7 @@
 
 #### Documentação de Processos
 
-##### Versão 2.0
+##### Versão 3.0
 
 - Versionamento de Processos
 
@@ -27,7 +27,8 @@
 
 #### Alteração de Arquivo
 
-##### Versão 1.0
+##### Versão 2.0
 
 - Alteração do arquivo "Conceito VBA", de acordo com o avanço das aulas.
+- Criações de Novas Macros para conceito em aprendizado
 
